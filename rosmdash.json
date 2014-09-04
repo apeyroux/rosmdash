@@ -1,0 +1,9 @@
+{
+    "db":{
+	"user":"ja",
+	"password":"ja",
+	"host":"192.168.122.162",
+	"port":5432,
+	"name":"tiled"
+    }
+}
